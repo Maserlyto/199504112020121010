@@ -116,7 +116,7 @@
     <div class="col-3">
         <div class="card">
             <div class="card-header">
-                <h3 class="card-title">Browser Usage</h3>
+                <h3 class="card-title">Penggunaan Bahasa Pemrograman</h3>
 
                 <div class="card-tools">
                     <button type="button" class="btn btn-tool" data-card-widget="collapse">
