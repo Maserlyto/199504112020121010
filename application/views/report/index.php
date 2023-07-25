@@ -40,7 +40,7 @@
             <div class="icon">
                 <i class="fas fa-building"></i>
             </div>
-            <a href="#" data-toggle="modal" data-target="#modal-satker" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+            <a href="#" data-toggle="modal" data-target="#modal-satker" class="small-box-footer my-tooltip" title="Diklik Untuk Melihat data">More info <i class="fas fa-arrow-circle-right"></i></a>
         </div>
     </div>
     <!-- ./col -->
@@ -55,7 +55,7 @@
             <div class="icon">
                 <i class="fas fa-mobile-alt"></i>
             </div>
-            <a href="#" data-toggle="modal" data-target="#modal-mobile" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+            <a href="#" data-toggle="modal" data-target="#modal-mobile" class="small-box-footer my-tooltip" title="Diklik Untuk Melihat data">More info <i class="fas fa-arrow-circle-right"></i></a>
         </div>
     </div>
     <!-- ./col -->

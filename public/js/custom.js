@@ -71,6 +71,12 @@ $(function () {
       display: false
     }
   }
+  var pieChart = new Chart(pieChartCanvas, {
+    type: 'doughnut',
+    data: pieData,
+    options: pieOptions
+  })
+
 
 });
 var Toast = Swal.mixin({
